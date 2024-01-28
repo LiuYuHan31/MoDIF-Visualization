@@ -147,3 +147,23 @@
 </p>
 
 <hr>
+
+## STBMPS
+### 1. Taking Photo & Sitting
+* Ori
+
+<p float="left">
+  <img src="https://github.com/LiuYuHan31/MoDIF-Visualization/blob/master/STBMPS/viz_result_stbmp_ori/human_viz_takingphoto_0.gif" width="300" />
+  <img src="https://github.com/LiuYuHan31/MoDIF-Visualization/blob/master/STBMPS/viz_result_stbmp_ori/human_viz_takingphoto_1.gif" width="300" /> 
+  <img src="https://github.com/LiuYuHan31/MoDIF-Visualization/blob/master/STBMPS/viz_result_stbmp_ori/human_viz_sitting_1.gif" width="300" />
+</p>
+
+* Ours
+<p float="left">
+  <img src="https://github.com/LiuYuHan31/MoDIF-Visualization/blob/master/STBMPS/viz_result_stbmp_ori/human_viz_takingphoto_0.gif" width="300" />
+  <img src="https://github.com/LiuYuHan31/MoDIF-Visualization/blob/master/STBMPS/viz_result_stbmp_ori/human_viz_takingphoto_1.gif" width="300" /> 
+  <img src="https://github.com/LiuYuHan31/MoDIF-Visualization/blob/master/STBMPS/viz_result_stbmp_ori/human_viz_sitting_1.gif" width="300" />
+</p>
+
+<hr>
+
