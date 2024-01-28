@@ -62,16 +62,16 @@
 * Ori
 
 <p float="left">
-  <img src="https://github.com/LiuYuHan31/MoDIF-Visualization/blob/master/SPGSN/viz_result_spgsn_ori/human_viz_walkingdiscussion_0.gif" width="300" />
-  <img src="https://github.com/LiuYuHan31/MoDIF-Visualization/blob/master/SPGSN/viz_result_spgsn_ori/human_viz_walkingdiscussion_1.gif" width="300" /> 
-  <img src="https://github.com/LiuYuHan31/MoDIF-Visualization/blob/master/SPGSN/viz_result_spgsn_ori/human_viz_walkingdiscussion_2.gif" width="300" />
+  <img src="https://github.com/LiuYuHan31/MoDIF-Visualization/blob/master/SPGSN/viz_result_spgsn_ori/human_viz_discussion_0.gif" width="300" />
+  <img src="https://github.com/LiuYuHan31/MoDIF-Visualization/blob/master/SPGSN/viz_result_spgsn_ori/human_viz_discussion_1.gif" width="300" /> 
+  <img src="https://github.com/LiuYuHan31/MoDIF-Visualization/blob/master/SPGSN/viz_result_spgsn_ori/human_viz_discussion_2.gif" width="300" />
 </p>
 
 * Ours
 <p float="left">
-  <img src="https://github.com/LiuYuHan31/MoDIF-Visualization/blob/master/SPGSN/viz_result_spgsn_ours/human_viz_walkingdiscussion_0.gif" width="300" />
-  <img src="https://github.com/LiuYuHan31/MoDIF-Visualization/blob/master/SPGSN/viz_result_spgsn_ours/human_viz_walkingdiscussion_1.gif" width="300" /> 
-  <img src="https://github.com/LiuYuHan31/MoDIF-Visualization/blob/master/SPGSN/viz_result_spgsn_ours/human_viz_walkingdiscussion_2.gif" width="300" />
+  <img src="https://github.com/LiuYuHan31/MoDIF-Visualization/blob/master/SPGSN/viz_result_spgsn_ours/human_viz_discussion_0.gif" width="300" />
+  <img src="https://github.com/LiuYuHan31/MoDIF-Visualization/blob/master/SPGSN/viz_result_spgsn_ours/human_viz_discussion_1.gif" width="300" /> 
+  <img src="https://github.com/LiuYuHan31/MoDIF-Visualization/blob/master/SPGSN/viz_result_spgsn_ours/human_viz_discussion_2.gif" width="300" />
 </p>
 
 <hr>
