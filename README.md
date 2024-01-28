@@ -167,6 +167,7 @@
 
 <hr>
 ### 2. Greeting & Waiting
+
 * Ori
 
 <p float="left">
