@@ -202,3 +202,21 @@
 </p>
 
 <hr>
+
+### 4.Walking & Smoking & Eating
+* Ori
+
+<p float="left">
+  <img src="https://github.com/LiuYuHan31/MoDIF-Visualization/blob/master/STBMPS/viz_result_stbmp_ori/human_viz_walking_1.gif" width="300" />
+  <img src="https://github.com/LiuYuHan31/MoDIF-Visualization/blob/master/STBMPS/viz_result_stbmp_ori/human_viz_smoking_1.gif" width="300" /> 
+  <img src="https://github.com/LiuYuHan31/MoDIF-Visualization/blob/master/STBMPS/viz_result_stbmp_ori/human_viz_eating_1.gif" width="300" />
+</p>
+
+* Ours
+<p float="left">
+  <img src="https://github.com/LiuYuHan31/MoDIF-Visualization/blob/master/STBMPS/viz_result_stbmp_ori/human_viz_walking_1.gif" width="300" />
+  <img src="https://github.com/LiuYuHan31/MoDIF-Visualization/blob/master/STBMPS/viz_result_stbmp_ori/human_viz_smoking_1.gif" width="300" /> 
+  <img src="https://github.com/LiuYuHan31/MoDIF-Visualization/blob/master/STBMPS/viz_result_stbmp_ori/human_viz_eating_1.gif" width="300" />
+</p>
+
+<hr>
