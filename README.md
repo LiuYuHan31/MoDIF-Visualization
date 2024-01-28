@@ -166,8 +166,8 @@
 </p>
 
 <hr>
-### 2. Greeting & Waiting
 
+### 2. Greeting & Waiting
 * Ori
 
 <p float="left">
@@ -181,6 +181,24 @@
   <img src="https://github.com/LiuYuHan31/MoDIF-Visualization/blob/master/STBMPS/viz_result_stbmp_ori/human_viz_greeting_0.gif" width="300" />
   <img src="https://github.com/LiuYuHan31/MoDIF-Visualization/blob/master/STBMPS/viz_result_stbmp_ori/human_viz_greeting_1.gif" width="300" /> 
   <img src="https://github.com/LiuYuHan31/MoDIF-Visualization/blob/master/STBMPS/viz_result_stbmp_ori/human_viz_waiting_1.gif" width="300" />
+</p>
+
+<hr>
+
+### 3. Phoning & Posing
+* Ori
+
+<p float="left">
+  <img src="https://github.com/LiuYuHan31/MoDIF-Visualization/blob/master/STBMPS/viz_result_stbmp_ori/human_viz_phoning_0.gif" width="300" />
+  <img src="https://github.com/LiuYuHan31/MoDIF-Visualization/blob/master/STBMPS/viz_result_stbmp_ori/human_viz_phoning_1.gif" width="300" /> 
+  <img src="https://github.com/LiuYuHan31/MoDIF-Visualization/blob/master/STBMPS/viz_result_stbmp_ori/human_viz_posing_1.gif" width="300" />
+</p>
+
+* Ours
+<p float="left">
+  <img src="https://github.com/LiuYuHan31/MoDIF-Visualization/blob/master/STBMPS/viz_result_stbmp_ori/human_viz_phoning_0.gif" width="300" />
+  <img src="https://github.com/LiuYuHan31/MoDIF-Visualization/blob/master/STBMPS/viz_result_stbmp_ori/human_viz_phoning_1.gif" width="300" /> 
+  <img src="https://github.com/LiuYuHan31/MoDIF-Visualization/blob/master/STBMPS/viz_result_stbmp_ori/human_viz_posing_1.gif" width="300" />
 </p>
 
 <hr>
