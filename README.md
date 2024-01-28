@@ -203,7 +203,7 @@
 
 <hr>
 
-### 4.Walking & Smoking & Eating
+### 4. Walking & Smoking & Eating
 * Ori
 
 <p float="left">
@@ -221,7 +221,7 @@
 
 <hr>
 
-### 5.WalkingDog & SittingDown & Discussion
+### 5. WalkingDog & SittingDown & Discussion
 * Ori
 
 <p float="left">
@@ -239,7 +239,7 @@
 
 <hr>
 
-### 6.WalkingTogether & Purchases & Directions
+### 6. WalkingTogether & Purchases & Directions
 * Ori
 
 <p float="left">
