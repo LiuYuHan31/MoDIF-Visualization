@@ -118,14 +118,32 @@
 <p float="left">
   <img src="https://github.com/LiuYuHan31/MoDIF-Visualization/blob/master/SPGSN/viz_result_spgsn_ori/human_viz_sittingdown_2.gif" width="300" />
   <img src="https://github.com/LiuYuHan31/MoDIF-Visualization/blob/master/SPGSN/viz_result_spgsn_ori/human_viz_posing_2.gif" width="300" /> 
-  <img src="https://github.com/LiuYuHan31/MoDIF-Visualization/blob/master/SPGSN/viz_result_spgsn_ori/human_viz_waitting_2.gif" width="300" />
+  <img src="https://github.com/LiuYuHan31/MoDIF-Visualization/blob/master/SPGSN/viz_result_spgsn_ori/human_viz_waiting_2.gif" width="300" />
 </p>
 
 * Ours
 <p float="left">
   <img src="https://github.com/LiuYuHan31/MoDIF-Visualization/blob/master/SPGSN/viz_result_spgsn_ours/human_viz_sittingdown_2.gif" width="300" />
   <img src="https://github.com/LiuYuHan31/MoDIF-Visualization/blob/master/SPGSN/viz_result_spgsn_ours/human_viz_posing_2.gif" width="300" /> 
-  <img src="https://github.com/LiuYuHan31/MoDIF-Visualization/blob/master/SPGSN/viz_result_spgsn_ours/human_viz_waitting_2.gif" width="300" />
+  <img src="https://github.com/LiuYuHan31/MoDIF-Visualization/blob/master/SPGSN/viz_result_spgsn_ours/human_viz_waiting_2.gif" width="300" />
+</p>
+
+<hr>
+
+### 8. Taking Photo & Sitting & Greeting
+* Ori
+
+<p float="left">
+  <img src="https://github.com/LiuYuHan31/MoDIF-Visualization/blob/master/SPGSN/viz_result_spgsn_ori/human_viz_takingphoto_2.gif" width="300" />
+  <img src="https://github.com/LiuYuHan31/MoDIF-Visualization/blob/master/SPGSN/viz_result_spgsn_ori/human_viz_sitting_2.gif" width="300" /> 
+  <img src="https://github.com/LiuYuHan31/MoDIF-Visualization/blob/master/SPGSN/viz_result_spgsn_ori/human_viz_greeting_2.gif" width="300" />
+</p>
+
+* Ours
+<p float="left">
+  <img src="https://github.com/LiuYuHan31/MoDIF-Visualization/blob/master/SPGSN/viz_result_spgsn_ours/human_viz_takingphoto_2.gif" width="300" />
+  <img src="https://github.com/LiuYuHan31/MoDIF-Visualization/blob/master/SPGSN/viz_result_spgsn_ours/human_viz_sittig_2.gif" width="300" /> 
+  <img src="https://github.com/LiuYuHan31/MoDIF-Visualization/blob/master/SPGSN/viz_result_spgsn_ours/human_viz_greeting_2.gif" width="300" />
 </p>
 
 <hr>
