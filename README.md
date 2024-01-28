@@ -76,7 +76,7 @@
 
 <hr>
 
-### 5. purchases & 
+### 5. Purchases & Directions
 * Ori
 
 <p float="left">
@@ -90,6 +90,24 @@
   <img src="https://github.com/LiuYuHan31/MoDIF-Visualization/blob/master/SPGSN/viz_result_spgsn_ours/human_viz_purchases_1.gif" width="300" />
   <img src="https://github.com/LiuYuHan31/MoDIF-Visualization/blob/master/SPGSN/viz_result_spgsn_ours/human_viz_purchases_2.gif" width="300" /> 
   <img src="https://github.com/LiuYuHan31/MoDIF-Visualization/blob/master/SPGSN/viz_result_spgsn_ours/human_viz_directions_2.gif" width="300" />
+</p>
+
+<hr>
+
+### 6. Smoking & Phoning
+* Ori
+
+<p float="left">
+  <img src="https://github.com/LiuYuHan31/MoDIF-Visualization/blob/master/SPGSN/viz_result_spgsn_ori/human_viz_smoking_0.gif" width="300" />
+  <img src="https://github.com/LiuYuHan31/MoDIF-Visualization/blob/master/SPGSN/viz_result_spgsn_ori/human_viz_smoking_1.gif" width="300" /> 
+  <img src="https://github.com/LiuYuHan31/MoDIF-Visualization/blob/master/SPGSN/viz_result_spgsn_ori/human_viz_phoning_2.gif" width="300" />
+</p>
+
+* Ours
+<p float="left">
+  <img src="https://github.com/LiuYuHan31/MoDIF-Visualization/blob/master/SPGSN/viz_result_spgsn_ours/human_viz_smoking_0.gif" width="300" />
+  <img src="https://github.com/LiuYuHan31/MoDIF-Visualization/blob/master/SPGSN/viz_result_spgsn_ours/human_viz_smoking_1.gif" width="300" /> 
+  <img src="https://github.com/LiuYuHan31/MoDIF-Visualization/blob/master/SPGSN/viz_result_spgsn_ours/human_viz_phoning_2.gif" width="300" />
 </p>
 
 <hr>
