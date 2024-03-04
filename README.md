@@ -264,7 +264,7 @@
 * Ours
   
 <p float="left">
-  <img src="https://github.com/LiuYuHan31/MoDIF-Visualization/blob/master/STBMPS/viz_result_stbmp_ori/human_viz_walkingtogether_0.gif" width="300" />
-  <img src="https://github.com/LiuYuHan31/MoDIF-Visualization/blob/master/STBMPS/viz_result_stbmp_ori/human_viz_purchases_0.gif" width="300" /> 
-  <img src="https://github.com/LiuYuHan31/MoDIF-Visualization/blob/master/STBMPS/viz_result_stbmp_ori/human_viz_directions_1.gif" width="300" />
+  <img src="https://github.com/LiuYuHan31/MoDIF-Visualization/blob/master/STBMPS/viz_result_stbmps_ours/human_viz_walkingtogether_0.gif" width="300" />
+  <img src="https://github.com/LiuYuHan31/MoDIF-Visualization/blob/master/STBMPS/viz_result_stbmps_ours/human_viz_purchases_0.gif" width="300" /> 
+  <img src="https://github.com/LiuYuHan31/MoDIF-Visualization/blob/master/STBMPS/viz_result_stbmps_ours/human_viz_directions_1.gif" width="300" />
 </p>
